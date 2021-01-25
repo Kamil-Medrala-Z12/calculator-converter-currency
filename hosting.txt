@@ -1,0 +1,2 @@
+Nazwa hosta (serwer) FTP:	calculator-currency.refy.pl
+Użytkownik (login) FTP:	calculator-currency@refy.pl
